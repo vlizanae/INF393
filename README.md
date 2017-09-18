@@ -1,0 +1,3 @@
+# Machine Learning
+
+Two engineers. In a class. And then an assignment hit. And they ran as fast as they could. From giant datasets. And then a giant error came. And that's when things got knocked into twelfth gear...

@@ -3,3 +3,5 @@ v-temp/
 .ipynb_checkpoints/
 control*/
 creditcard.csv
+sign_mnist_test.csv
+sign_mnist_train.csv
